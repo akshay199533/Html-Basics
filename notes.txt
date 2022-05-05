@@ -1,0 +1,29 @@
+Head ->some infor about page
+Body ->Actual data 
+
+Tags
+<>
+<html>
+    <head>
+
+    </head>
+    <body>
+
+    </body>
+</html>
+ Two type of tages 
+ Container Tags
+
+ Empty tags -> dont have closing tags 
+
+
+ Link tag -->we use css for loading the CSS (Cascading style sheet) files 
+ Script -->we use it for loading Js (JavaScript) files 
+
+ Image Tag :
+
+
+Class 2 
+GitHub --> website 
+
+repository ->folder where we store our code 
