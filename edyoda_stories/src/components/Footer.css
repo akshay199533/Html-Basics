@@ -1,0 +1,10 @@
+footer{
+    Background-color: #172146;
+    padding: 30px 5%;
+    color: #f2f6ff;
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

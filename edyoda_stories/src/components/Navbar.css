@@ -1,0 +1,53 @@
+header {
+    padding: 16px 78px;
+    background-color: #fff;
+    display: flex;
+}
+
+.blogTopbar a {
+    text-decoration: none;
+} 
+
+.blogTopbar p {
+    margin: 0;
+   font-weight: 500;
+   font-style: italic;
+   text-decoration: none;
+} 
+/* For logo Edyoda  */
+#logo {
+    width: 130px;
+    color: #0084ff;
+    margin: 0;
+    font-weight: 900;
+    text-decoration: none;
+    font-size: 2.1rem;
+    width: 130px;
+    font-weight: 900;
+    padding-right: 20px;
+}
+/* For navbar */
+
+nav {
+    display: flex;
+}
+/* For drop dwon */
+#dropDown{
+    color: #000;
+    padding-left: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+/* For arrow */
+.arrow {
+        border: solid #000;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+        cursor: pointer;
+        }
+/* For arrow oreintation */
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+      }

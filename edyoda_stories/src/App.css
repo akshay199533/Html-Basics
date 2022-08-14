@@ -1,0 +1,17 @@
+      /* For Background color */
+       html {
+        background-color:#f2f6ff ;
+        scroll-behavior: smooth;
+    }
+    body{
+        margin: 0;
+    }
+    /* To maintain same font family */
+    h1 ,p ,head ,body,span{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    main {
+      padding: 2% 16%;
+      margin: 0;
+  }

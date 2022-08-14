@@ -1,0 +1,49 @@
+.categories h1{
+    color: #000;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+}   
+.categories img {
+    height: 25px;
+    width: 25px;
+    color: #0084ff;
+    
+}
+.categories p {
+    margin: 0;
+    font-size: .85em;
+    font-weight: 500;
+    margin-left: 0.5em;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.categories_menu_list {
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    margin: 5px;
+    border:1px solid #0084ff;
+    cursor: pointer;
+    border-radius: 15px;
+    font-size: 0.75em;
+    white-space: nowrap;
+   
+}
+
+.categories_menu_list:hover {
+    color: #fff;
+    background-color: #0084ff;
+}
+.categories_menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.active {
+    color: #fff;
+    background-color: #0084ff;
+
+}
+.filter-wrapper{
+    display: flex;
+}
